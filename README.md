@@ -97,3 +97,12 @@ Modifying protected files will result in automatic academic integrity violation
 Implementation (70%): Function correctness, file operations, error handling
 
 Interview (30%): Code explanation and live coding challenge
+
+# Documentation
+My stat formulas are based off of the values given in the example.
+Initial stats for strength and magic start at 5, 10, and 15. While
+Initial health starts at 40, 80, and 120. These values represent low,
+medium, and high respectively. When a character levels up the base
+stat is multiplied by level.
+
+There was no AI assistance used for this project. 
